@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam kumar Verma</h1>
-<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+
+<img align="right" alt="coding" width ="400" src="https://app.lottiefiles.com/animation/1e1410d9-fb3e-4c3d-83aa-ba3cb1a5bd43">
+
 
 <!-- - 🔭 I’m currently working on **Backend** -->
 
